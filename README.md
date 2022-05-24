@@ -7,7 +7,7 @@
   1. HTML5
   2. CSS3
   3. JavaScript
-  4. PHP (Baxckend Database Functions)
+  4. PHP (Backend Database Functions)
   5. MySQL (Database)
 
 ## IDE & Tools
