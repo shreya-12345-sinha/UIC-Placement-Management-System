@@ -22,7 +22,7 @@
   1. Student
   2. HOD
   3. Principal
-  4. PLacement
+  4. Placement
   
 ### Homepages
   1. Master Homepage
